@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../img/bg.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+=======
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image:url(../img/bg.jpg);
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+>>>>>>> ec2906d838f4b3c6841e65468710e4c43b5d36b5
+}
